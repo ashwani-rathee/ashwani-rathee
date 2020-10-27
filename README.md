@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Base.@kwdef struct AshwaniRathee
+    job::String = "Undergrad Student"
+    years::Int = 19
+    website::String = "None"
+    current_projects::Vector{String}
+end
+
+Base.summary(d::AshwaniRathee) = "Some $(d.years) year old $(d.job)"
+workson(d::AshwaniRathee) = d.current_projects 
+hobbies(::AshwaniRathee) = ("Taekwondo","Music", "programming")
+favorite_project(::AshwaniRathee) = "Enigma.jl"
+
+# Begin my description
+me = AshwaniRathee(current_projects = [
+  "Enigma.jl", 
+  "MusicProcessing.jl",
+  "Learning-Julia.jl",
+])
+
+println(summary(me))
+println("works on: $(join(me.current_projects, ", "))")
+println("has hobbies: $(join(hobbies(me), ", "))")
