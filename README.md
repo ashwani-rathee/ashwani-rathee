@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+```julia
 Base.@kwdef struct AshwaniRathee
     job::String = "Undergrad Student"
     years::Int = 19
@@ -37,3 +37,5 @@ me = AshwaniRathee(current_projects = [
 println(summary(me))
 println("works on: $(join(me.current_projects, ", "))")
 println("has hobbies: $(join(hobbies(me), ", "))")
+```
+![AshwaniRathee's github stats](https://github-readme-stats.vercel.app/api?username=ashwani-rathee&show_icons=true&hide=["issues"])
