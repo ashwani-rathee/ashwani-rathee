@@ -39,3 +39,5 @@ println("works on: $(join(me.current_projects, ", "))")
 println("has hobbies: $(join(hobbies(me), ", "))")
 ```
 ![AshwaniRathee's github stats](https://github-readme-stats.vercel.app/api?username=ashwani-rathee&show_icons=true&hide=["issues"])
+
+ Poster for design competition: [here](https://drive.google.com/file/d/1VRMRe-9_A8dY3VDy0fMQB996ajTzoeCq/view?usp=sharing)
