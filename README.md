@@ -41,6 +41,6 @@ println("has hobbies: $(join(hobbies(me), ", "))")
 ![AshwaniRathee's github stats](https://github-readme-stats.vercel.app/api?username=ashwani-rathee&show_icons=true&hide=["issues"])
 
 <ul>
- <li>Poster for design competition : [here](https://drive.google.com/file/d/1VRMRe-9_A8dY3VDy0fMQB996ajTzoeCq/view?usp=sharing)</li>
- <li> Deep Learning by Ian GoodFellow : [here](https://drive.google.com/drive/folders/1w4OGfhNP-5KpFJxyJGpUCEpSeYpF44m2?usp=sharing)</li>
+ <li>Poster for design competition : ![here](https://drive.google.com/file/d/1VRMRe-9_A8dY3VDy0fMQB996ajTzoeCq/view?usp=sharing)</li>
+ <li> Deep Learning by Ian GoodFellow : ![here](https://drive.google.com/drive/folders/1w4OGfhNP-5KpFJxyJGpUCEpSeYpF44m2?usp=sharing)</li>
 </ul>
