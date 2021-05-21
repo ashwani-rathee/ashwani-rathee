@@ -24,7 +24,7 @@ end
 Base.summary(d::AshwaniRathee) = "Some $(d.years) year old $(d.job)"
 workson(d::AshwaniRathee) = d.current_projects 
 hobbies(::AshwaniRathee) = ("Taekwondo","Music", "programming")
-favorite_project(::AshwaniRathee) = "Enigma.jl"
+favorite_project(::AshwaniRathee) = "MusicProcessing.jl"
 
 # Begin my description
 me = AshwaniRathee(current_projects = [
