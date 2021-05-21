@@ -58,10 +58,6 @@ println("has hobbies: $(join(hobbies(me), ", "))")
 [<img align="left" alt="Discord" src="https://img.shields.io/discord/384024830988648450?color=blue&label=Discord&logo=discord&style=for-the-badge"/>][discord]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwani-rathee&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani-rathee&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 [website]: https://ashwani-rathee.github.io
 [twitter]: https://twitter.com/ashwani_rathee_
