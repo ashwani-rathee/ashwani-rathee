@@ -46,6 +46,6 @@ println("has hobbies: $(join(hobbies(me), ", "))")
 [twitter]: https://twitter.com/ashwani_rathee_
 [linkedin]: https://www.linkedin.com/in/ashwani-rathee-0b7594192/
 [medium]: https://medium.com/@ashwanirathee
-[discord]: https://discord.gg/4eAYmbeRb7
+[discord]: https://discord.gg/f2qmJnj2Vk
 
 [<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ashwani-rathee.ashwani-rathee"/>][website]
