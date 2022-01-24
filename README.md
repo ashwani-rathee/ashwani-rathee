@@ -1,4 +1,4 @@
-####  Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> You can call me [Ash][website]. I enjoy writing, solving problems and automating stuff. I'm a developer with experience in Flutter, Julia, Python, Nodejs with focus in Image/Audio signal processing, RL.
+####  Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> You can call me [Ash][website]. I enjoy writing, solving problems and automating stuff. I'm a developer with experience in  Julia, Python, Flutter, Nodejs with focus in Image/Audio signal processing.
 <!--
 **ashwani-rathee/ashwani-rathee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 ```julia
 Base.@kwdef struct AshwaniRathee
     job::String = "Undergrad Student"
-    years::Int = 20
-    website::String = "None"
+    years::Int = 21
+    website::String = "ashwani-rathee.github.io"
     current_projects::Vector{String}
 end
 
 Base.summary(d::AshwaniRathee) = "Some $(d.years) year old $(d.job)"
 workson(d::AshwaniRathee) = d.current_projects 
-hobbies(::AshwaniRathee) = ("Taekwondo","Music", "programming")
-favorite_project(::AshwaniRathee) = "MusicProcessing.jl"
+hobbies(::AshwaniRathee) = ("Taekwondo","Movies", "Music", "programming")
+favorite_project(::AshwaniRathee) = "Sardor"
 
 # Begin my description
 me = AshwaniRathee(current_projects = [
-  "JoySpring.jl", 
-  "MusicProcessing.jl",
-  "JuliaImages Projects",
+  "Firebase.jl", 
+  "CameraCalibrations.jl",
+  "Sigil",
 ])
 
 println(summary(me))
