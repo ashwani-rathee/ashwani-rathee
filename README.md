@@ -1,8 +1,12 @@
 Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-You can call me [Ash][website].
+You can call me Ash. My name is Ashwani Rathee. 
 
-I'm a developer with experience in  Julia, Python, C/C++, Flutter/Dart, ReactJS/Nodejs with focus in Image/Audio signal processing.
+I am an senior undergraduate student studying information technology. As you can guess, I like computer 
+vision and image processing.
+
+I'm a developer with experience in  Julia, Python, C/C++, Flutter/Dart, ReactJS/Nodejs with focus in 
+Image/Audio signal processing. I have contributed to Julia during GSOC'22, OSPP'21 events.
 
 #### Interesting Projects:
 - [Brain Tumor Segmentation](https://github.com/ashwani-rathee/Brain-Tumor-Segmentation):
