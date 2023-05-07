@@ -12,6 +12,7 @@ in Image/Audio signal processing. I have contributed to Julia during GSOC'22, OS
 | [ExifViewer.jl][exif-url]                | ![][exif-badge]| Julia wrapper of the C library libexif that provides EXIF support      |
 | [GIFImages.jl][gif-url]                  | ![][gif-badge] | Provides support for decoding and encoding GIF images                  |
 | [ColorQuantization.jl][colq-url]         | ![][colq-badge]| Provides color quantization algorithms                                 |
+| [ImageCorners.jl][imgc-url]              | ![][imgc-badge]| Provides corner related algorithms in Julia                            |
 | [Miner.jl][mine-url]                     | ![][mine-badge]| Voxel world simulator written in GLMakie                               |
      
 [fb-url]: https://github.com/ashwani-rathee/Firebase.jl
@@ -24,6 +25,8 @@ in Image/Audio signal processing. I have contributed to Julia during GSOC'22, OS
 [mine-badge]: https://img.shields.io/github/stars/ashwani-rathee/Miner.jl?style=plastic
 [colq-url]: https://github.com/JuliaImages/ColorQuantization.jl
 [colq-badge]: https://img.shields.io/github/stars/JuliaImages/ColorQuantization.jl?style=plastic
+[imgc-url]: https://github.com/JuliaImages/ImageCorners.jl
+[imgc-badge]: https://img.shields.io/github/stars/JuliaImages/ImageCorners.jl?style=plastic
 
 [![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discord.gg/f2qmJnj2Vk)
 [![Linkedin](https://img.shields.io/badge/contact-me-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-rathee-0b7594192/)
