@@ -6,4 +6,3 @@ in Image/Audio signal processing. I have contributed to Julia during GSOC'22, OS
 [![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discord.gg/f2qmJnj2Vk)
 [![Linkedin](https://img.shields.io/badge/contact-me-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-rathee-0b7594192/)
 [![Medium](https://img.shields.io/badge/contact-me-blue?logo=medium&logoColor=white)](https://medium.com/@ashwanirathee)
-<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ashwani-rathee.ashwani-rathee"/>
